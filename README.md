@@ -1,4 +1,4 @@
-# GLINT-RU
+# STAR-Rec
 This is the main implementation code of GLINT-RU for sequential recommender systems.
 
 ## 🛠️Installation
@@ -30,11 +30,11 @@ More details can be found in our paper: https://dl.acm.org/doi/pdf/10.1145/36906
 
 ## 🎓Citations
 ```latex
-@inproceedings{zhang2025glint,
-  title={Glint-ru: Gated lightweight intelligent recurrent units for sequential recommender systems},
-  author={Zhang, Sheng and Wang, Maolin and Wang, Wanyu and Gao, Jingtong and Zhao, Xiangyu and Yang, Yu and Wei, Xuetao and Liu, Zitao and Xu, Tong},
-  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
-  pages={1948--1959},
+@inproceedings{wang2025star,
+  title={STAR-Rec: Making peace with length variance and pattern diversity in sequential recommendation},
+  author={Wang, Maolin and Zhang, Sheng and Guo, Ruocheng and Wang, Wanyu and Wei, Xuetao and Liu, Zitao and Yin, Hongzhi and Chang, Yi and Zhao, Xiangyu},
+  booktitle={Proceedings of the 48th international ACM SIGIR conference on research and development in information retrieval},
+  pages={1530--1540},
   year={2025}
 }
 ```
